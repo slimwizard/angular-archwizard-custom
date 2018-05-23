@@ -1,7 +1,7 @@
 {
   "_args": [
     [
-      "ng2-archwizard@^2.1.0",
+      "angular-archwizard-custom",
       "C:\\newtech_web_dev\\RxcMemberPortal\\Main\\member_portal_site\\MemberPortal\\MemberPortal"
     ]
   ],
@@ -144,7 +144,7 @@
       "email": "marc.arndt@masimi.de"
     }
   ],
-  "name": "ng2-archwizard",
+  "name": "angular-archwizard-custom",
   "optionalDependencies": {},
   "repository": {
     "type": "git",
